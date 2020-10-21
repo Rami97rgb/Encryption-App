@@ -5,7 +5,7 @@ Built a C++ app that can encrypt or decrypt inputed text and that implements mul
 To use AES algorithm:
 1. Run the program in AES folder.
 2. Input message to encrypt or decrypt.
-3. Enter an encryption key of size 128, 192, or 256 bits meaning 16, 24, or 32 caracters.
+3. Enter an encryption key of size 128, 192, or 256 bits meaning 16, 24, or 32 characters.
 4. Choose to encrypt or decrypt: type "e" or "d".
 
 ## RSA Encryption
