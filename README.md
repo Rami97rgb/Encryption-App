@@ -1,5 +1,5 @@
 # Encryption-App
-Built a C++ app that can encrypt or decrypt inputed text and that implements multiple encryption algorithms: AES, RSA, Vigenere, Che, Ceaser, and Rot13.
+Built a C++ app that can encrypt or decrypt inputed text and that implements multiple encryption algorithms: AES, RSA, Vigenere, Che, Caesar, and Rot13.
 
 ## AES Encryption
 To use AES algorithm:
